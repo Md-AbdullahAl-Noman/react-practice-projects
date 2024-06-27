@@ -1,2 +1,2 @@
 # react-practice-projects
-#all topics will be covered
+# all topics will be covered
